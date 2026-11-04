@@ -27,12 +27,13 @@
 
 ## 📊 GitHub Stats
  
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mavenboard&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavenboard&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mavenboard&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<p align="center">
+  <a href="https://github.com/mavenboard">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=mavenboard&custom_title=Contribution%20Stats&include_all_commits=true&theme=dark_github&hide_border=true" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/mavenboard">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=mavenboard&layout=compact&langs_count=8&theme=dark_github&hide_border=true" alt="Top languages" />
+  </a>
 </p>
 
 ## 🚀 Featured Projects
