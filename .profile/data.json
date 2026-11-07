@@ -1,13 +1,37 @@
 {
- "key": "bdb7e1c9",
+ "key": "889f1988",
  "stars": 0,
- "contributions": 303,
+ "contributions": 305,
  "repos": 3,
  "followers": 0,
  "languages": [
   [
    "HTML",
-   2279
+   941599
+  ],
+  [
+   "TypeScript",
+   250909
+  ],
+  [
+   "Vue",
+   243372
+  ],
+  [
+   "JavaScript",
+   141167
+  ],
+  [
+   "CSS",
+   96878
+  ],
+  [
+   "EJS",
+   55773
+  ],
+  [
+   "PHP",
+   4768
   ]
  ],
  "days": [
@@ -23,12 +47,12 @@
     "today": false
    },
    {
-    "c": 4,
+    "c": 5,
     "day": 20,
     "today": false
    },
    {
-    "c": 13,
+    "c": 12,
     "day": 21,
     "today": false
    },
@@ -60,12 +84,12 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 27,
     "today": false
    },
    {
-    "c": 1,
+    "c": 0,
     "day": 28,
     "today": false
    },
@@ -97,12 +121,12 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 4,
     "day": 3,
     "today": false
    },
    {
-    "c": 1,
+    "c": 0,
     "day": 4,
     "today": false
    },
@@ -117,7 +141,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 3,
     "day": 7,
     "today": true
    }
