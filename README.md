@@ -1,43 +1,19 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+mavenboard+%F0%9F%91%8B;I+build+things+in+C%2B%2B+and+JS;Desktop+apps+%7C+Web+%7C+Embedded" alt="Typing intro" />
-</p>
- 
-<p align="center">
-  <em>Embedded and Fullstack Dev</em>
-</p>
-<p align="center">📍 Based in Canada 🇨🇦</p>
+<div align="center">
 
-## 👋 About Me
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m mavenboard"></picture>
 
-- 🔭 Currently building **CiderView**, a desktop NowPlaying display for Cider
-- 🌱 Learning **LVGL and embedded UI design**
-- 🧠 Want to learn **Vue and React**
- 
-## 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About Me"></picture>
 
-**Languages**<br>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,java" alt="Languages" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech Stack"></picture>
 
-**Frameworks & Runtimes**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,nuxt,express,angular,tailwind" alt="Frameworks" />
+<a href="https://github.com/mavenboard/mavenboard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mavenboard-dark.svg"><img src="assets/project-mavenboard-light.svg" width="49%" alt="mavenboard"></picture></a>&nbsp;<a href="https://github.com/mavenboard/ciderview"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ciderview-dark.svg"><img src="assets/project-ciderview-light.svg" width="49%" alt="ciderview"></picture></a>
 
-**Tools**<br>
-<img src="https://skillicons.dev/icons?i=git,idea,clion,postgres,cloudflare,docker" alt="Tools" />
- 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub Stats"></picture>
 
-## 📊 GitHub Stats
- 
-<p align="center">
-  <a href="https://github.com/mavenboard">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=mavenboard&custom_title=Contribution%20Stats&include_all_commits=true&theme=dark_github&hide_border=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/mavenboard">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=mavenboard&layout=compact&langs_count=8&theme=dark_github&hide_border=true" alt="Top languages" />
-  </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-## 🚀 Featured Projects
- 
-| Project | Description | Tech |
-| --- | --- | --- |
-| [**CiderView**](https://github.com/mavenboard/ciderview) | Simple desktop NowPlaying Display for Cider | `C++` `LVGL` |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/mavenboard?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+</div>
