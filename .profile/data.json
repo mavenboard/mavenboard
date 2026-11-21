@@ -1,7 +1,7 @@
 {
- "key": "703858c9",
+ "key": "364d746",
  "stars": 0,
- "contributions": 249,
+ "contributions": 255,
  "repos": 3,
  "followers": 0,
  "languages": [
@@ -11,19 +11,19 @@
   ],
   [
    "TypeScript",
-   250909
+   375015
   ],
   [
    "Vue",
-   243372
-  ],
-  [
-   "JavaScript",
-   123313
+   362845
   ],
   [
    "CSS",
-   96878
+   189846
+  ],
+  [
+   "JavaScript",
+   132519
   ],
   [
    "EJS",
@@ -136,15 +136,19 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 6,
     "day": 20,
     "today": false
    },
-   null
+   {
+    "c": 2,
+    "day": 21,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 7
  },
  "pins": [],
