@@ -1,7 +1,7 @@
 {
- "key": "364d746",
+ "key": "b758f4c8",
  "stars": 0,
- "contributions": 255,
+ "contributions": 257,
  "repos": 3,
  "followers": 0,
  "languages": [
@@ -11,15 +11,15 @@
   ],
   [
    "TypeScript",
-   375015
+   457140
   ],
   [
    "Vue",
-   362845
+   363362
   ],
   [
    "CSS",
-   189846
+   190011
   ],
   [
    "JavaScript",
@@ -141,9 +141,9 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 4,
     "day": 21,
-    "today": true
+    "today": false
    }
   ]
  ],
